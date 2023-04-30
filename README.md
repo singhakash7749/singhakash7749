@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @singhakash7749
+- 👀 I’m interested in learning different programming languages 
+- 🌱 I’m currently in 3rd year of my graduation
+- 💞️ I’m looking to collaborate on python projects 
+- 📫 You can reach me at singhakash7749@gmail.com or at my linkedin - www.linkedin.com/in/akash-singh-69b60b193/
